@@ -1,5 +1,5 @@
 # Digital-Twin-Aided-RIS-Communication-Robust-Beamforming-and-Interference-Management
-The MATLAB implementation of the paper "Digital Twin Aided RIS Communication: Robust Beamforming and Interference Management":
+The MATLAB implementation of the paper "Digital Twin Aided RIS Communication: Robust Beamforming and Interference Management". If you want to use the dataset or scripts in this page, please cite the following paper:
 ```
 @misc{alikhani2024digitaltwinaidedris,
       title={Digital Twin Aided RIS Communication: Robust Beamforming and Interference Management}, 
