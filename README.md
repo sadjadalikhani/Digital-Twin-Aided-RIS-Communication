@@ -11,3 +11,11 @@ The MATLAB implementation of the paper "Digital Twin Aided RIS Communication: Ro
       url={https://arxiv.org/abs/2406.04188}, 
 }
 ```
+
+To generate the codebook, you will need to use the O1 DeepMIMO scenario. Detailed instructions are available on the DeepMIMO website (https://www.deepmimo.net/). Briefly:
+
+1. Download the DeepMIMO generator for MATLAB from the website and place the files in your project directory.
+
+2. Add the O1 scenario folder to the `Raytracing scenarios` folder within the generator.
+
+The code should run smoothly after completing these steps.
